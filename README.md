@@ -84,9 +84,9 @@ flutter build apk --release --split-per-abi
 
 
 
-| ![](C:\vs-Program\轻流.个人项目管理\app\images\ql1.jpg) | ![](C:\vs-Program\轻流.个人项目管理\app\images\ql2.jpg) | ![](C:\vs-Program\轻流.个人项目管理\app\images\ql3.jpg) |
+| ![](/images/ql1.jpg) | ![](/images/ql2.jpg) | ![](/images/ql3.jpg) |
 | ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- |
-| ![](C:\vs-Program\轻流.个人项目管理\app\images\ql4.jpg) | ![](C:\vs-Program\轻流.个人项目管理\app\images\ql5.jpg) |                                                 |
+| ![](/images/ql4.jpg) | ![](/images/ql5.jpg) |                                                 |
 
 ## 感悟
 
@@ -100,4 +100,4 @@ flutter build apk --release --split-per-abi
 
 Flutter环境开发的，理论上安卓和苹果都能用。苹果没测试过，苹果的权限会更多限制，使用苹果的朋友可以编译后试试，有问题可以反馈给我。安卓机使用是没问题。
 
-![](C:\vs-Program\轻流.个人项目管理\app\images\qr-customer-service.jpg)
+![](/images/qr-customer-service.jpg)
