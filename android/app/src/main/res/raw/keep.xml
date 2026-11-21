@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- AGP 9 默认资源优化会剔除"无静态引用"的资源；闹钟铃声由 Dart 侧
+     RawResourceAndroidNotificationSound('alarm') 引用，静态分析不可见，需显式保留 -->
+<resources xmlns:tools="http://schemas.android.com/tools"
+    tools:keep="@raw/alarm" />
